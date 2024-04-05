@@ -4,23 +4,23 @@
 	font-style: normal;
 	font-weight: 600;
 	font-display: auto;
-	src: url('/wp-content/uploads/2023/09/Inter-SemiBold.eot');
-	src: url('/wp-content/uploads/2023/09/Inter-SemiBold.eot#iefix') format('embedded-opentype'),
-		url('/wp-content/uploads/2023/09/Inter-SemiBold.woff2') format('woff2'),
-		url('/wp-content/uploads/2023/09/Inter-SemiBold.woff') format('woff'),
-		url('/wp-content/uploads/2023/09/Inter-SemiBold.ttf') format('truetype'),
-		url('/wp-content/uploads/2023/09/Inter-SemiBold.svg#Interlocal') format('svg');
+	src: url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-SemiBold.eot');
+	src: url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-SemiBold.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-SemiBold.woff2') format('woff2'),
+		url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-SemiBold.woff') format('woff'),
+		url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-SemiBold.ttf') format('truetype'),
+		url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-SemiBold.svg#Interlocal') format('svg');
 }
 @font-face {
 	font-family: 'Inter local';
 	font-style: normal;
 	font-weight: bold;
 	font-display: auto;
-	src: url('/wp-content/uploads/2023/09/Inter-Bold.eot');
-	src: url('/wp-content/uploads/2023/09/Inter-Bold.eot#iefix') format('embedded-opentype'),
-		url('/wp-content/uploads/2023/09/Inter-Bold.woff2') format('woff2'),
-		url('/wp-content/uploads/2023/09/Inter-Bold.woff') format('woff'),
-		url('/wp-content/uploads/2023/09/Inter-Bold.ttf') format('truetype'),
-		url('/wp-content/uploads/2023/09/Inter-Bold.svg#Interlocal') format('svg');
+	src: url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-Bold.eot');
+	src: url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-Bold.woff2') format('woff2'),
+		url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-Bold.woff') format('woff'),
+		url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-Bold.ttf') format('truetype'),
+		url('https://www.wiak.studio/wp-content/uploads/2023/09/Inter-Bold.svg#Interlocal') format('svg');
 }
 /* End Custom Fonts CSS */
